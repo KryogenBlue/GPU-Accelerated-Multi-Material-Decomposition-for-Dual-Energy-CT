@@ -7,6 +7,7 @@ This repository provides a PyTorch implementation of a GPU-accelerated algorithm
 #### Credits and Acknowledgments
 
 - This implementation is recomposed from the `multi-mat-decomp` project by gjadick available on GitHub: [https://github.com/gjadick/multi-mat-decomp](https://github.com/gjadick/multi-mat-decomp)
+
 - This project also utilizes GitHub Copilot and ChatGPT-4 for code suggestions and debugging assistance.
 
 #### Improvement
@@ -22,11 +23,13 @@ python gpu-MMD.py
 A typical Multi-Material Decomposition result is shown below.
 
 ![image](Decomposition_Sample.png)
+
 #### Dataset 
 - The code is designed to be compatible with any DECT Pair Dataset with certain spectrums.
 
 #### Contact Information
 For further information or inquiries, please contact:
 - **Email:** medphyxhli@buaa.edu.cn
-You may also refer to my related repository  `DualEnergyCTSynthesis
+
+- You may also refer to my related repository  `DualEnergyCTSynthesis
 ` [https://github.com/KryogenBlue/DualEnergyCTSynthesis](https://github.com/KryogenBlue/DualEnergyCTSynthesis) for more details.
