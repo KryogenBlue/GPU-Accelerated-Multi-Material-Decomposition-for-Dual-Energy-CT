@@ -1,4 +1,4 @@
-#### GPU-Accelerated Multi-Material Decomposition for Dual-Energy CT
+### GPU-Accelerated Multi-Material Decomposition for Dual-Energy CT
 
 ####  Project Overview
 This repository provides a PyTorch implementation of a GPU-accelerated algorithm for multi-material decomposition of dual-energy CT (DECT) images, replicating the method proposed in the 2013 paper by GE:
