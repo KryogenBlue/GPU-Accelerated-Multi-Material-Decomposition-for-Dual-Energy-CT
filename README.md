@@ -19,6 +19,9 @@ You may run the decomposition algorithm by simply using the following command:
 python gpu-MMD.py
 ```
 
+A typical Multi-Material Decomposition result is shown below.
+
+![image](Decomposition_Sample.png)
 #### Dataset 
 - The code is designed to be compatible with any DECT Pair Dataset with certain spectrums.
 
